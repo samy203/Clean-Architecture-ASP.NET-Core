@@ -27,9 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Api", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Application.UnitTests", "EmployeeManagement.Application.UnitTests\EmployeeManagement.Application.UnitTests.csproj", "{3D383A7C-7225-4B32-BA58-3D4D438D3975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Persistence.IntegrationTests", "EmployeeManagement.Persistence.IntegrationTests\EmployeeManagement.Persistence.IntegrationTests.csproj", "{3F67A8DC-D6C1-441F-8FAD-2EABAF682419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Persistence.IntegrationTests", "EmployeeManagement.Persistence.IntegrationTests\EmployeeManagement.Persistence.IntegrationTests.csproj", "{3F67A8DC-D6C1-441F-8FAD-2EABAF682419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Api.IntegrationTests", "EmployeeManagement.Api.IntegrationTests\EmployeeManagement.Api.IntegrationTests.csproj", "{9647ADDE-DA12-4CFC-82FB-64F0AD3EE4A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Api.IntegrationTests", "EmployeeManagement.Api.IntegrationTests\EmployeeManagement.Api.IntegrationTests.csproj", "{9647ADDE-DA12-4CFC-82FB-64F0AD3EE4A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
